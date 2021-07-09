@@ -1,6 +1,6 @@
 # ActivityDetection
 ## Purpose:
-This project purpose is detecting activity(jogging,walking,running ...) from pulse. I used 1D Convolution Neural Network.Because 1D CNN is used for time series dataset.
+This project purpose is detecting activity(jogging,walking,running ...) from cellphone acclerometer. I used 1D Convolution Neural Network.Because 1D CNN is used for time series dataset.
 Project Package:
 1. Keras 2.3.1
 2. Scipy 1.4.1
